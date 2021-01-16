@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/orange/Documents/code/Cpp_workspace/main.cpp
+iostream
+-
+swap.h
+C:/Users/orange/Documents/code/Cpp_workspace/swap.h
+
+C:/Users/orange/Documents/code/Cpp_workspace/swap.h
+

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/orange/Documents/code/Cpp_workspace/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\main_swap.dir\\main.cpp.obj -c C:\\Users\\orange\\Documents\\code\\Cpp_workspace\\main.cpp",
+  "file": "C:/Users/orange/Documents/code/Cpp_workspace/main.cpp"
+},
+{
+  "directory": "C:/Users/orange/Documents/code/Cpp_workspace/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\main_swap.dir\\swap.cpp.obj -c C:\\Users\\orange\\Documents\\code\\Cpp_workspace\\swap.cpp",
+  "file": "C:/Users/orange/Documents/code/Cpp_workspace/swap.cpp"
+}
+]
